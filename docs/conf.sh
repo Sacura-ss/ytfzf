@@ -1,4 +1,5 @@
-#second change branch2
+#second change branch1#second change branch2
+
 # This is a sample config file, refer to ytfzf(5) for more information
 
 # In the previous version of ytfzf this file had all the examples, with all defaults set,
